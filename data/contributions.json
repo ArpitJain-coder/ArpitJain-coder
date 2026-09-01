@@ -1,22 +1,22 @@
 {
   "username": "ArpitJain-coder",
-  "generated_at": "2026-08-31T13:48:57Z",
+  "generated_at": "2026-09-01T11:38:46Z",
   "range": {
     "start": "2025-08-31",
+    "end": "2026-09-01"
+  },
+  "total_contributions": 96,
+  "active_days": 43,
+  "avg_per_active_day": 2.2,
+  "current_streak": {
+    "length": 31,
+    "start": "2026-08-01",
     "end": "2026-08-31"
   },
-  "total_contributions": 95,
-  "active_days": 42,
-  "avg_per_active_day": 2.3,
-  "current_streak": {
-    "length": 30,
-    "start": "2026-08-01",
-    "end": "2026-08-30"
-  },
   "longest_streak": {
-    "length": 30,
+    "length": 31,
     "start": "2026-08-01",
-    "end": "2026-08-30"
+    "end": "2026-08-31"
   },
   "best_day": {
     "date": "2026-04-12",
@@ -73,7 +73,11 @@
     },
     {
       "month": "2026-08",
-      "total": 50
+      "total": 51
+    },
+    {
+      "month": "2026-09",
+      "total": 0
     }
   ],
   "days": [
@@ -1539,6 +1543,10 @@
     },
     {
       "date": "2026-08-31",
+      "count": 1
+    },
+    {
+      "date": "2026-09-01",
       "count": 0
     }
   ]
